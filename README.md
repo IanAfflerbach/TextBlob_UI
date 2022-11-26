@@ -1,0 +1,1 @@
+run: python -m textblob.down;pad_corpora
