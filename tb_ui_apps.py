@@ -104,7 +104,7 @@ class SentimentAnalysisApp(BaseApp):
         self.stats_box.config(state=tk.DISABLED)
 
 
-class NPEApp(BaseApp):
+class POSApp(BaseApp):
     def __init__(self):
         super().__init__()
 
