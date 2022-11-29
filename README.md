@@ -1,8 +1,7 @@
 installation:
-    1) using conda, install libraries in "requirements.txt"
+    1) using conda, create an environment and install libraries in "requirements.txt"
     2) activate environment
     3) run "python -m textblob.download_corpora"
-
 
 execeution:
     For Sentiment Analysis: "python sentiment_analysis.py"
